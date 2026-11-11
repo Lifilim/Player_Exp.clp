@@ -1,0 +1,16 @@
+working-state player disenabled 	; не работает
+working-state player stable	; работает стабильно
+working-state player trable	; работает не стабильно
+
+power-state player yes
+power-state player no
+
+sound-state player yes
+sound-state player no
+
+working-state screen enabled
+working-state screen disenabled
+
+music-state playback yes
+music-state playback no
+
